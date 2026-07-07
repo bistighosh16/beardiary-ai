@@ -131,7 +131,7 @@ BearBestie is the heart of the app: gentle, supportive, and non-judgmental. The 
 
 ## 🌐 Live Demo
 
-A live demo link will be added once the app is deployed.
+https://beardiary-ai.streamlit.app/
 
 ---
 
